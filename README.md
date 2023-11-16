@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gokul03M
 - 👀 I’m interested in Programming and sports 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently using Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
